@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: ohyeah2389 # the main title
 
-tagline: Portfolio # it will display as the subtitle
+tagline: A catalog of my work. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A portfolio showcasing my projects and skills.
