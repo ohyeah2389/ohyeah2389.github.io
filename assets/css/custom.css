@@ -100,14 +100,6 @@ h1.single-title {
   transform: none !important;
 }
 
-/* Disable all CSS transitions and transforms */
-*, *::before, *::after {
-  transition-duration: 0s !important;
-  transition-delay: 0s !important;
-  animation-duration: 0s !important;
-  animation-delay: 0s !important;
-}
-
 /* Disable specific LoveIt animations */
 .post-card,
 .summary,

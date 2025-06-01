@@ -110,6 +110,8 @@ gitRepo = "https://github.com/ohyeah2389/ohyeah2389.github.io"
     [params.page.library]
       [params.page.library.css]
         custom = "css/custom.css"
+      [params.page.library.js]
+        themeFix = "js/theme-fix.js"
     [params.page.share]
       enable = false
       Twitter = true
