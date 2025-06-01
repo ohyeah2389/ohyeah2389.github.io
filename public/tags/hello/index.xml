@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hello - Tag - Portfolio</title>
+        <link>http://localhost:1313/tags/hello/</link>
+        <description>Hello - Tag - Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 21:55:52 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/hello/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>http://localhost:1313/posts/my-first-post/</link>
+    <pubDate>Sat, 31 May 2025 21:55:52 -0400</pubDate>
+    <author>ohyeah2389</author>
+    <guid>http://localhost:1313/posts/my-first-post/</guid>
+    <description><![CDATA[<p>Welcome to my new Hugo site! This is my first post using the LoveIt theme.</p>
+<h2 id="getting-started">Getting Started</h2>
+<p>I&rsquo;m excited to share my thoughts and projects here.</p>
+<h3 id="features-i-love">Features I Love</h3>
+<ul>
+<li>Clean, modern design</li>
+<li>Dark mode support</li>
+<li>Fast loading times</li>
+<li>Great typography</li>
+</ul>
+<p>More content coming soon!</p>]]></description>
+</item>
+</channel>
+</rss>

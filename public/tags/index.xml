@@ -1,0 +1,63 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Portfolio</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Apr 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Photogrammetry</title>
+    <link>http://localhost:1313/tags/photogrammetry/</link>
+    <pubDate>Sun, 20 Apr 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/photogrammetry/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Tools</title>
+    <link>http://localhost:1313/tags/tools/</link>
+    <pubDate>Sun, 20 Apr 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/tools/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Commission</title>
+    <link>http://localhost:1313/tags/commission/</link>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/commission/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Modeling</title>
+    <link>http://localhost:1313/tags/modeling/</link>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/modeling/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Racetrack</title>
+    <link>http://localhost:1313/tags/racetrack/</link>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/racetrack/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Racing</title>
+    <link>http://localhost:1313/tags/racing/</link>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/racing/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Karting</title>
+    <link>http://localhost:1313/tags/karting/</link>
+    <pubDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/tags/karting/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,163 @@
+/* Custom font definition */
+@font-face {
+  font-family: 'Whitrabt';
+  src: url('/fonts/whitrabt.woff2') format('woff2'),
+       url('/fonts/whitrabt.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Custom background colors for LoveIt theme */
+:root {
+  /* Only define the dark mode color */
+  --custom-dark-bg: #232323;
+  --custom-header-bg: #1a1a1a;
+  --custom-text-color: #e0e0e0;
+  --custom-font-family: 'Whitrabt', var(--global-font-family);
+}
+
+/* Dark mode overrides */
+[theme=dark] body,
+[theme=dark] .wrapper,
+[theme=dark] .container,
+[theme=dark] #content,
+[theme=dark] .page {
+  background-color: var(--custom-dark-bg) !important;
+}
+
+/* Header background customization */
+[theme=dark] header.desktop,
+[theme=dark] header.mobile,
+[theme=dark] #header-desktop,
+[theme=dark] #header-mobile {
+  background-color: var(--custom-header-bg) !important;
+}
+
+[theme=dark] #header-mobile .menu {
+  background-color: var(--custom-header-bg) !important;
+}
+
+/* Brighter text in dark mode */
+[theme=dark] body,
+[theme=dark] .page,
+[theme=dark] .single .content,
+[theme=dark] .summary .content,
+[theme=dark] .home .summary {
+  color: var(--custom-text-color) !important;
+}
+
+/* Header text colors */
+[theme=dark] .header-title,
+[theme=dark] .header-title a,
+[theme=dark] .menu-item {
+  color: var(--custom-text-color) !important;
+}
+
+/* Custom font for big texts */
+.header-title,
+.header-title a,
+h1, h2, h3, h4, h5, h6,
+.single-title,
+.single-subtitle,
+.home-title,
+.home-subtitle,
+.toc-title,
+.post-title,
+.summary .single-title {
+  font-family: var(--custom-font-family) !important;
+}
+
+/* Disable TypeIt animations */
+.typeit {
+  animation: none !important;
+}
+
+/* Disable post title animations */
+.single .single-title,
+.post-title,
+h1.single-title {
+  animation: none !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+/* Disable all animate.css animations used by LoveIt */
+.animate__animated,
+[class*="animate__"] {
+  animation: none !important;
+  animation-duration: 0s !important;
+  animation-delay: 0s !important;
+}
+
+/* Disable fade-in and slide animations */
+.fadeInUp,
+.fadeIn,
+.slideInUp,
+.slideIn {
+  animation: none !important;
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+/* Disable all CSS transitions and transforms */
+*, *::before, *::after {
+  transition-duration: 0s !important;
+  transition-delay: 0s !important;
+  animation-duration: 0s !important;
+  animation-delay: 0s !important;
+}
+
+/* Disable specific LoveIt animations */
+.post-card,
+.summary,
+.single-title,
+.home-profile,
+.page-header {
+  animation: none !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+/* Fix the footer positioning issue */
+html {
+  height: 100%;
+  background-color: var(--custom-dark-bg) !important;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+#content {
+  flex: 1;
+}
+
+.footer {
+  margin-top: auto;
+  position: relative;
+}
+
+/* Ensure main content area takes proper space */
+.container {
+  min-height: calc(100vh - 200px); /* Adjust based on header/footer height */
+}
+
+/* Fix for single post pages */
+.single .content {
+  min-height: auto;
+}
+
+/* Remove any fixed positioning that might interfere */
+.footer {
+  position: relative !important;
+  bottom: auto !important;
+}

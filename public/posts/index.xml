@@ -1,0 +1,57 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Portfolio</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Apr 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Club Motorsports</title>
+    <link>http://localhost:1313/posts/club_motorsports/</link>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 &#43;0000</pubDate>
+    <author>ohyeah2389</author>
+    <guid>http://localhost:1313/posts/club_motorsports/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/clubmoto2024.jpg" referrerpolicy="no-referrer">
+            </div>A modern club circuit in the mountains of New Hampshire.]]></description>
+</item>
+<item>
+    <title>G&amp;J Kartway</title>
+    <link>http://localhost:1313/posts/gj_kartway/</link>
+    <pubDate>Sun, 27 Dec 2020 00:00:00 &#43;0000</pubDate>
+    <author>ohyeah2389</author>
+    <guid>http://localhost:1313/posts/gj_kartway/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/gjkartway.jpg" referrerpolicy="no-referrer">
+            </div>My home track and my longest-running project.]]></description>
+</item>
+<item>
+    <title>New Castle Motorsports Park</title>
+    <link>http://localhost:1313/posts/new_castle_mp/</link>
+    <pubDate>Sun, 27 Dec 2020 00:00:00 &#43;0000</pubDate>
+    <author>ohyeah2389</author>
+    <guid>http://localhost:1313/posts/new_castle_mp/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/ncmp.jpg" referrerpolicy="no-referrer">
+            </div>A large popular American outdoor karting complex.]]></description>
+</item>
+<item>
+    <title>Pointgram</title>
+    <link>http://localhost:1313/posts/pointgram/</link>
+    <pubDate>Sun, 20 Apr 2025 00:00:00 &#43;0000</pubDate>
+    <author>ohyeah2389</author>
+    <guid>http://localhost:1313/posts/pointgram/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pointgram.png" referrerpolicy="no-referrer">
+            </div>A tool for manual photogrammetry, feature matching, and automated camera solving.]]></description>
+</item>
+<item>
+    <title>United Karting</title>
+    <link>http://localhost:1313/posts/united_karting/</link>
+    <pubDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>ohyeah2389</author>
+    <guid>http://localhost:1313/posts/united_karting/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/unitedkarting2023.jpg" referrerpolicy="no-referrer">
+            </div>Proof that parking lot tracks can be great.]]></description>
+</item>
+</channel>
+</rss>
