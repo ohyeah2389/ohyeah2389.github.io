@@ -1,6 +1,6 @@
 +++
 title = "New Castle Motorsports Park"
-date = 2020-12-27
+date = 2021-09-17
 draft = false
 weight = 1
 tags = ["modeling", "racing", "racetrack", "commission", "photogrammetry", "karting"]
