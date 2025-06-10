@@ -11,7 +11,9 @@
     <guid>http://localhost:1313/posts/club_motorsports/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/clubmoto2024.jpg" referrerpolicy="no-referrer">
-            </div>A modern club circuit in the mountains of New Hampshire.]]></description>
+            </div><p>Club Motorsports is a private road course for cars and motorbikes located near Tamworth, New Hampshire. It features around 250 feet of elevation change over its 2.5 mile (4.023 km), 15-turn car circuit, as well as an 8-turn karting layout. The circuit hosts track days, kart races, and other motorsports events.</p>
+<h1 id="2023">2023</h1>
+<p>I was commissioned to create this model by a member of the real track after his son, an avid simracer, tried some of my previous track models I had posted on Overtake.gg (named RaceDepartment at the time). My initial research and data aggregation showed that the track was not well-covered by publicly available data, which was further complicated by the tricky terrain and elevation change of the track. The latest available aerial LiDAR dataset at the time was from 2015. It was captured while the track was being constructed, and there were piles of dirt covering the yet-unpaved areas. Normally, this would have made the project impossible, but the client offered to attempt to capture novel data with their own equipment, a camera quadcopter (&ldquo;drone&rdquo;), after noting that I had captured data for my <a href="../gj_kartway/" rel="">G&amp;J Kartway</a> and <a href="../new_castle_mp/" rel="">New Castle Motorsports Park</a> projects using my own drone.</p>]]></description>
 </item>
 <item>
     <title>New Castle Motorsports Park</title>

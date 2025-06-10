@@ -198,4 +198,11 @@ gitRepo = "https://github.com/ohyeah2389/ohyeah2389.github.io"
     post = ""
     name = "About"
     url = "/about/"
+  [[menu.main]]
+    weight = 5
+    identifier = "services"
+    pre = ""
+    post = ""
+    name = "Services"
+    url = "/services/"
     title = ""

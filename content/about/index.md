@@ -14,7 +14,7 @@ My expertise centers on **automotive and karting racetracks**, where I combine r
 
 Through 80+ projects exploring different techniques and workflows, I've developed a deep understanding of what works (and what doesn't) across various modeling scenarios. This extensive experience has allowed me to refine efficient workflows and identify the best solutions for each unique project requirement.
 
-I integrate programming skills with traditional 3D modeling, creating custom tools and automated processes that ensure consistency, accuracy, and faster turnaround times. Every project benefits from my deep understanding of both the technical and experiential aspects of racing and flight simulation.
+I integrate my coding expertise with hands-on 3D modeling to build bespoke tools and automate workflows-- efforts that aren’t just about efficiency, but also about accurately capturing the spirit of the target asset. Every project of mine carries forward the insights I've gathered from countless hours and many previous experiments.
 
 I take on commission work ranging from individual vehicle models to complete track environments. Each collaboration starts with understanding your specific needs and performance requirements.
 
